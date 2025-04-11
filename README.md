@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Carlos Emnauel, tenho 19 anos. Concluí o ensino médio no IFCE, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciencia da Computação na UNIFOR. Sou um estudante aficionado por programação, estudo diariamente há 1ano e 4 meses , sobre a área do Desenvolvimento Web e colocando em prática todo o meu conhecimento criando projetos e publicando-os aqui.
+Me chamo Carlos Emanuel, tenho 19 anos. Concluí o ensino médio no IFCE, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciencia da Computação na UNIFOR. Sou um estudante aficionado por programação, estudo diariamente há 1ano e 4 meses , sobre a área do Desenvolvimento Web e colocando em prática todo o meu conhecimento criando projetos e publicando-os aqui.
 
 
 ---
