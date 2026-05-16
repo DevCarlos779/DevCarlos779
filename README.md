@@ -74,3 +74,4 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
       height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlos779&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<p/>
