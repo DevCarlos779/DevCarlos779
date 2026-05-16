@@ -59,7 +59,7 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -67,11 +67,12 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DevCarlos779&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlos779&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="175" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlos779&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<p/>
+</p>
+
+<br clear="left"/>
