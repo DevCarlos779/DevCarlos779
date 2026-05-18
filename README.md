@@ -29,14 +29,7 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -45,7 +38,6 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="TypeScript" 
