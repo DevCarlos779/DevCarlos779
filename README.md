@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciencia da Computação na UNIFOR. Sou um estudante aficionado por programação, estudo diariamente, sobre a área do Desenvolvimento Web e colocando em prática todo o meu conhecimento criando projetos e publicando-os aqui.
+Me chamo Carlos Emanuel, tenho 20 anos e sou desenvolvedor Front-end focado no ecossistema JavaScript, TypeScript e React.
+
+Atualmente, estou cursando Ciência da Computação na UNIFOR (3º Semestre) e possuo formação técnica em Redes de Computadores pelo IFCE.
+
+Sou apaixonado por engenharia de software e desenvolvimento web. Dedico meu dia a dia a criar aplicações modernas, aplicando conceitos de arquitetura limpa, gerenciamento de estado global e estruturas de dados dinâmicas para construir interfaces otimizadas, responsivas e escaláveis.
+
+📬 Vamos nos conectar?
 
 <div> 
   <a href = "mailto:devcarlos0112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
