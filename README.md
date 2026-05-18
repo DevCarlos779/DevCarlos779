@@ -29,7 +29,14 @@ Me chamo Carlos Emanuel, tenho 20 anos. Concluí o ensino médio no IFCE, com o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
