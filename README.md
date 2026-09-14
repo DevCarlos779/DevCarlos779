@@ -4,7 +4,7 @@
 
 Me chamo Carlos Emanuel, tenho 20 anos e sou desenvolvedor Front-end focado no ecossistema JavaScript, TypeScript e React.
 
-Atualmente, estou cursando Ciência da Computação na UNIFOR (3º Semestre) e possuo formação técnica em Redes de Computadores pelo IFCE.
+Atualmente, estou cursando Ciência da Computação na UNIFOR (4º Semestre) e possuo formação técnica em Redes de Computadores pelo IFCE.
 
 Sou apaixonado por engenharia de software e desenvolvimento web. Dedico meu dia a dia a criar aplicações modernas, aplicando conceitos de arquitetura limpa, gerenciamento de estado global e estruturas de dados dinâmicas para construir interfaces otimizadas, responsivas e escaláveis.
 
